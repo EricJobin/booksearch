@@ -19,7 +19,7 @@ if (process.env.NODE_ENV === "production") {
 app.use(routes);
 
 
-var MONGODB_URI = process.env.MONGODB_URI || "mongodb://localhost/homeworkdb"
+var MONGODB_URI = process.env.MONGODB_URI || "mongodb://null:null1234@ds037688.mlab.com:37688/heroku_hh77jjxt"
 mongoose.connect(MONGODB_URI);
 
 
