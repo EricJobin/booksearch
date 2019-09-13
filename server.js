@@ -17,10 +17,13 @@ if (process.env.NODE_ENV === "production") {
 
 // Define API routes here
 app.use(routes);
+// mongodb://<dbuser>:<dbpassword>@ds019866.mlab.com:19866/heroku_0wc5tn3b
 
 
-var MONGODB_URI = process.env.MONGODB_URI || "mongodb://null:null1234@ds037688.mlab.com:37688/heroku_hh77jjxt"
-mongoose.connect(MONGODB_URI);
+var MONGODB_URI = process.env.MONGODB_URI || "mongodb://user:user1234@ds019866.mlab.com:19866/heroku_0wc5tn3b";
+
+mongoose.connect(MONGODB_URI,{useNewUrlParser:true});
+
 
 
 // Send every other request to the React app
