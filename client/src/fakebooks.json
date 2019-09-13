@@ -1,0 +1,28 @@
+[
+	{
+		"bookid": 1,
+        "title" : "PROJECT SMOKE: SEVEN STEPS TO SMOKED FOOD NIRVANA",
+        "author" : "Steven Raichlen",
+        "description" : "A complete, step-by-step guide to mastering the art and craft of smoking, plus 100 recipes—every one a game-changer –for smoked food that roars off your plate with flavor.",
+        "image" :  "https://dynamic.indigoimages.ca/books/0761181865.jpg?altimages=false&scaleup=true&maxheight=515&width=380&quality=85&sale=38&lang=en",
+        "link" : "https://www.chapters.indigo.ca/en-ca/books/project-smoke-seven-steps-to/9780761181866-item.html"
+	},
+	{
+		"bookid": 2,
+        "title" : "KITCHEN PARTY: EFFORTLESS RECIPES FOR EVERY OCCASION",
+        "author" : "Mary Berg",
+        "description" : "Mary Berg--winner of MasterChef Canada and star of Mary's Kitchen Crush--shares her most delicious, stress-free recipes, grand enough for special celebrations and easy enough for a regular Tuesday night.",
+        "image" :  "https://dynamic.indigoimages.ca/books/0147531241.jpg?altimages=false&scaleup=true&maxheight=515&width=380&quality=85&sale=21&lang=en",
+        "link" : "https://www.chapters.indigo.ca/en-ca/books/kitchen-party-effortless-recipes-for/9780147531247-item.html"
+	},
+	{
+		"bookid": 3,
+        "title" : "FARM TO CHEF: COOKING THROUGH THE SEASONS",
+        "author" : "Lynn Crawford",
+        "description" : "Bestselling author and acclaimed chef Lynn Crawford celebrates the bounty of the seasons with over 140 recipes featuring farm-fresh produce for every occasion",
+        "image" :  "https://dynamic.indigoimages.ca/books/0143193600.jpg?altimages=false&scaleup=true&maxheight=515&width=380&quality=85&sale=10&lang=en",
+        "link" : "https://www.chapters.indigo.ca/en-ca/books/farm-to-chef-cooking-through/9780143193609-item.html"
+	}
+
+
+]
